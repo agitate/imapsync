@@ -46,6 +46,10 @@ liburi-perl             \
 libtest-nowarnings-perl \
 libtest-deep-perl       \
 libtest-warn-perl       \
+libfile-tail-perl       \
+libjson-perl            \
+libjson-webtoken-perl   \
+libcrypt-openssl-rsa-perl \
 make                    \
 cpanminus
 
